@@ -1,0 +1,2 @@
+http://localhost:51000/generate/site1/gallery.aspx?local_path=C:\e\a3_input\yellow-dune\input\&subfolder=content&pic_path=&navigate_path=&output_path=C:\e\a3_output\yellow-dune\output\content\,C:\e\a3_output\yellow-dune\output\content\index.html
+http://localhost:51000/generate/site2/gallery.aspx?local_path=C:\e\a3_input\yellow-dune\input\&subfolder=content&pic_path=&navigate_path=&output_path=C:\e\a3_output\yellow-dune\output\content\,C:\e\a3_output\yellow-dune\output\content\index.html
