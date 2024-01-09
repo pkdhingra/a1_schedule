@@ -1,1 +1,1 @@
-start chrome.exe http://localhost:51000/generate_sites.aspx?sites=%1%
+call start chrome.exe http://localhost:51000/generate_sites.aspx?sites=%1%
