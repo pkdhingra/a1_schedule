@@ -1,4 +1,4 @@
-echo "push all started" >> log.txt
+echo "pull all started" >> c:\e\a1_schedule\log.txt
 call kreatewebsite-push roadhana.com
 call kreatewebsite-push abexperiment.com
 call kreatewebsite-push blog.apartments-sale.com
@@ -28,5 +28,5 @@ call kreatewebsites-push lohri.org
 call kreatewebsites-push tax-income.com
 call kreatewebsites-push tax-income.net
 call kreatewebsites-push tax-income.org
-echo "push all done" >> log.txt
-echo "push all complete" > log-latest.txt
+echo "pull all done" >> c:\e\a1_schedule\log.txt
+echo "pull all complete" > c:\e\a1_schedule\log-latest.txt

@@ -1,1 +1,1 @@
-call echo "push done" >> log.txt
+call echo "pushdone" >> log.txt
