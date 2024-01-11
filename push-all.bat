@@ -1,3 +1,4 @@
+echo "push all started" >> log.txt
 call kreatewebsite-push roadhana.com
 call kreatewebsite-push abexperiment.com
 call kreatewebsite-push blog.apartments-sale.com
@@ -27,3 +28,5 @@ call kreatewebsites-push lohri.org
 call kreatewebsites-push tax-income.com
 call kreatewebsites-push tax-income.net
 call kreatewebsites-push tax-income.org
+echo "push all done" >> log.txt
+echo "push all complete" > log-latest.txt
