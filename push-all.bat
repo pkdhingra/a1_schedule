@@ -4,7 +4,7 @@ call kreatewebsite-push abexperiment.com
 call kreatewebsite-push blog.apartments-sale.com
 call kreatewebsite-push business.interior-designer.apartments-sale.com
 call kreatewebsite-push dataknobs.com
-call kreatewebsite-push dataproduct.dataknobs.com
+call kreatewebsite-push dataknobs.com.dataproduct
 REM call kreatewebsite-push daynightcricket.com
 call kreatewebsite-push happydiwali.org
 call kreatewebsite-push holi.festivals.kreatewebsites.com
