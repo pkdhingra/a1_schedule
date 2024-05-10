@@ -1,0 +1,1 @@
+call robocopy  c:\f\0-buckets\5108_gdrive\  c:\e\a3_input\kreatewebsites.com.slides2\input\content\  /s "*.list"  ".path"

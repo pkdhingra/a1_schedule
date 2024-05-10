@@ -28,5 +28,6 @@ call kreatewebsites-push lohri.org
 call kreatewebsites-push tax-income.com
 call kreatewebsites-push tax-income.net
 call kreatewebsites-push tax-income.org
+call kreatewebsites-push slides.kreatewebsites.com
 echo "pull all done" >> c:\e\a1_schedule\log.txt
 echo "pull all complete" > c:\e\a1_schedule\log-latest.txt
