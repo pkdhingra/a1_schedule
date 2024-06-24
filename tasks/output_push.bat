@@ -28,3 +28,5 @@ call cd c:\e\a3_output\1000placestosee.info\output\content\
 call gitall "automated kreate server"
 call cd c:\e\a3_output\slides.kreatewebsites.com\output\content\
 call gitall "automated kreate server"
+call cd c:\e\a3_output\usacitytrip.com\output\content\
+call gitall "automated kreate server"
