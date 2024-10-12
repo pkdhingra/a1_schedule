@@ -1,7 +1,8 @@
-SET drive=%2
-SET cms=%3
-SET topic=%4
-SET site=%1
+REM copy_article_to_site
+SET drive=02102_gdrive
+SET cms=02102_prompt
+SET topic=technology
+SET site=kreate.cloud
 call gsutil -m cp -r -n gs://%drive%  c:\f\0-buckets
 call gsutil -m cp -r -n gs://%cms%  c:\f\0-buckets
 call xcopy  c:\f\0-buckets\%cms%\  c:\e\a2_generated_sites\articles\  /s /e /y /d

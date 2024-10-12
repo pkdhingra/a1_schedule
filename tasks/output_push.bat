@@ -1,7 +1,7 @@
 call cd c:\e\a3_output\abexperiment.com
 call gitall "automated kreate server"
-call cd c:\e\a3_output\dataknobs.com
-call gitall "automated kreate server"
+REM call cd c:\e\a3_output\dataknobs.com
+REM call gitall "automated kreate server"
 call cd c:\e\a3_output\makarsankranti.net\
 call gitall "automated kreate server"
 call cd c:\e\a3_output\makarsankranti.org\

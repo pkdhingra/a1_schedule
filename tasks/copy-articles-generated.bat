@@ -31,13 +31,13 @@ REM call xcopy  c:\f\0-buckets\5110_prompt\news  c:\e\a2_generated_sites\article
 REM call xcopy c:\f\0-buckets\5110_prompt\kreatebots.com\input\content\  c:\e\a3_input\earnings-call.kreatebots.com\input\content\  /s /e /y /d
 REM call robocopy  c:\f\0-buckets\5110_gdrive\earnings-call.kreatebots.com\input\content  c:\e\a3_input\earnings-call.kreatebots.com\input\content\  /s "*.list"  "*.path" "*.imagelist" "*.count" /e 
 
-call gsutil -m cp -r -n gs://5108_prompt c:\f\0-buckets
-call gsutil -m cp -r -n gs://5108_gdrive c:\f\0-buckets
-call xcopy  c:\f\0-buckets\5108_prompt\technology  c:\e\a2_generated_sites\articles\technology\  /s /e /y /d
-call xcopy c:\f\0-buckets\5108_prompt\slides.kreatewebsites.com\input\content\  c:\e\a3_input\slides.kreatewebsites.com\input\content\  /s /e /y /d
-call xcopy c:\f\0-buckets\5108_prompt\slides.kreatewebsites.com\input\content\  c:\e\a3_input\slides.kreatewebsites.com\input\content\  /s /e /y /d
-call robocopy  c:\f\0-buckets\5108_gdrive\slides.kreatewebsites.com\input\content\  c:\e\a3_input\slides.kreatewebsites.com\input\content\  /s "*.list"  "*.path" "*.imagelist"  "*.count" /e 
-call robocopy  c:\f\0-buckets\5108_gdrive\slides.kreatewebsites.com\input\content\  c:\e\a3_input\slides.kreatebots.com\input\content\  /s "*.list"  "*.path" "*.imagelist" "*.count"  /e 
+REM call gsutil -m cp -r -n gs://5108_prompt c:\f\0-buckets
+REM call gsutil -m cp -r -n gs://5108_gdrive c:\f\0-buckets
+REM call xcopy  c:\f\0-buckets\5108_prompt\technology  c:\e\a2_generated_sites\articles\technology\  /s /e /y /d
+REM call xcopy c:\f\0-buckets\5108_prompt\slides.kreatewebsites.com\input\content\  c:\e\a3_input\slides.kreatewebsites.com\input\content\  /s /e /y /dREM 
+REM call xcopy c:\f\0-buckets\5108_prompt\slides.kreatewebsites.com\input\content\  c:\e\a3_input\slides.kreatewebsites.com\input\content\  /s /e /y /d
+REM call robocopy  c:\f\0-buckets\5108_gdrive\slides.kreatewebsites.com\input\content\  c:\e\a3_input\slides.kreatewebsites.com\input\content\  /s "*.list"  "*.path" "*.imagelist"  "*.count" /e 
+REM call robocopy  c:\f\0-buckets\5108_gdrive\slides.kreatewebsites.com\input\content\  c:\e\a3_input\slides.kreatebots.com\input\content\  /s "*.list"  "*.path" "*.imagelist" "*.count"  /e 
 
 REM abexperiment
 call gsutil -m cp -r -n gs://5105_prompt c:\f\0-buckets
@@ -48,13 +48,13 @@ call xcopy c:\f\0-buckets\5105_prompt\www.abexperiment.com\input\content\  c:\e\
 call robocopy  c:\f\0-buckets\5105_gdrive\www.abexperiment.com\input\content  c:\e\a3_input\abexperiment.com\input\content\  /s "*.list"  "*.path" ".imagelist"  "*.count" /e 
 
 REM Dataknobs
-call gsutil -m cp -r -n gs://5106_prompt c:\f\0-buckets
-call gsutil -m cp -r -n gs://5106_gdrive c:\f\0-buckets
-call xcopy  c:\f\0-buckets\5106_prompt\4-articles-technology  c:\e\a2_generated_sites\articles\4-articles-technology\  /s /e /y /d
-call xcopy  c:\f\0-buckets\5106_prompt\technology  c:\e\a2_generated_sites\articles\technology\  /s /e /y /d
-call xcopy  c:\f\0-buckets\5106_prompt\news  c:\e\a2_generated_sites\articles\news\  /s /e /y /d
-call xcopy c:\f\0-buckets\5106_prompt\www.dataknobs.com\input\content\  c:\e\a3_input\dataknobs.com\input\content\  /s /e /y /d
-call robocopy  c:\f\0-buckets\5106_gdrive\www.dataknobs.com\input\content  c:\e\a3_input\dataknobs.com\input\content\  /s "*.list"  "*.path" "*.imagelist" "*.count"  /e
+REM call gsutil -m cp -r -n gs://5106_prompt c:\f\0-buckets
+REM call gsutil -m cp -r -n gs://5106_gdrive c:\f\0-buckets
+REM call xcopy  c:\f\0-buckets\5106_prompt\4-articles-technology  c:\e\a2_generated_sites\articles\4-articles-technology\  /s /e /y /d
+REM call xcopy  c:\f\0-buckets\5106_prompt\technology  c:\e\a2_generated_sites\articles\technology\  /s /e /y /d
+REM call xcopy  c:\f\0-buckets\5106_prompt\news  c:\e\a2_generated_sites\articles\news\  /s /e /y /d
+REM call xcopy c:\f\0-buckets\5106_prompt\www.dataknobs.com\input\content\  c:\e\a3_input\dataknobs.com\input\content\  /s /e /y /d
+REM call robocopy  c:\f\0-buckets\5106_gdrive\www.dataknobs.com\input\content  c:\e\a3_input\dataknobs.com\input\content\  /s "*.list"  "*.path" "*.imagelist" "*.count"  /e
 
 REM
 REM call gsutil -m cp -r -n gs://5108_prompt c:\f\0-buckets

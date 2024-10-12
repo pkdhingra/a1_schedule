@@ -3,9 +3,9 @@ call git-push roadhana.com
 call git-push abexperiment.com
 call git-push blog.apartments-sale.com
 call git-push business.interior-designer.apartments-sale.com
-call git-push dataknobs.com
-call git-push dataknobs.com.dataproduct
-REM call git-push daynightcricket.com
+REM call git-push dataknobs.com
+REM call git-push dataknobs.com.dataproduct
+REM REM call git-push daynightcricket.com
 call git-push happydiwali.org
 call git-push holi.festivals.kreatewebsites.com
 REM call git-push indiacitytrip
