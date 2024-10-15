@@ -2,7 +2,7 @@ echo "pull all started" >> c:\e\a1_schedule\log.txt
 call kreatewebsite-push roadhana.com
 call kreatewebsite-push abexperiment.com
 call kreatewebsite-push blog.apartments-sale.com
-call kreatewebsite-push business.interior-designer.apartments-sale.com
+REM Error call kreatewebsite-push business.interior-designer.apartments-sale.com
 REM call kreatewebsite-push www.dataknobs.com
 call kreatewebsite-push dataknobs.com.dataproduct
 REM REM call kreatewebsite-push daynightcricket.com

@@ -7,5 +7,5 @@ call cd c:\e\a3_output\%1%
 call cd output\content\
 REM timeout 40
 call gitall.bat "added by job"
-call cd c:\e\a1_schedule
+call cd c:\e\a1_schedule\3-deploy
 echo "kreatewebsite-push complete" >> c:\e\a1_schedule\log.txt
