@@ -5,7 +5,10 @@ SET cms=%4
 SET topic=%5
 
 call gsutil -m cp -r -n gs://%article%  c:\f\0-buckets
+if %drive% NEQ %article% (
 call gsutil -m cp -r -n gs://%drive%  c:\f\0-buckets
+echo drive and site are different
+)
 call xcopy  c:\f\0-buckets\%article%\%cms%\  c:\e\a2_generated_sites\articles\%cms%  /s /e /y /d
 call xcopy c:\f\0-buckets\%article%\%site%\input\content\  c:\e\a3_input\%site%\input\content\  /s /e /y /d
 
