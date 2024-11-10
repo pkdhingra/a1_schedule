@@ -1,9 +1,9 @@
 REM copy_article_to_site
 SET site=indiacities.net
-SET drive=gMtHeugOyh1ma26ctM38_gdrive
-SET article=gMtHeugOyh1ma26ctM38_prompt
-SET cms=festivals
-SET topic=festivals
+SET drive=gmtheugoyh1ma26ctm38_gdrive
+SET article=gmtheugoyh1ma26ctm38_prompt
+SET cms=travel
+SET topic=travel
 
 call .\copy_article_to_site.bat %site% %drive% %article% %cms% %topic%
 REM call  gsutil -m cp -r -n gs://%drive%  c:\f\0-buckets

@@ -3,8 +3,8 @@ SET site=qutubminar.org
 REM SET drive=YSuZ6BfpZgY5aUZ1cD8T_gdrive
 SET drive=ysuz6bfpzgy5auz1cd8t_gdrive
 SET article=ysuz6bfpzgy5auz1cd8t_prompt
-SET cms=festivals
-SET topic=festivals
+SET cms=travel
+SET topic=travel
 
 call .\copy_article_to_site.bat %site% %drive% %article% %cms% %topic%
 REM call  gsutil -m cp -r -n gs://%drive%  c:\f\0-buckets
