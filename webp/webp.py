@@ -61,7 +61,7 @@ def convert_images_to_webp_recursive(root_folder):
 if __name__ == "__main__":
     # Specify the root folder path containing images and subfolders
     #root_folder = input("Enter the path to the root folder containing images: ")
-    root_folder = r'c:\kreatewebsite\festival\thanks-giving'
+    root_folder = r'c:\gcp\layout.kreatewebsites.com'
     convert_images_to_webp_recursive(root_folder)
     
 
@@ -69,6 +69,7 @@ if __name__ == "__main__":
 
     
     '''
+    root_folder = r'c:\kreatewebsite\festival\thanks-giving'
     root_folder = r'c:\kreatewebsite\festival'
     convert_images_to_webp_recursive(root_folder)
     

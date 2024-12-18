@@ -1,17 +1,6 @@
 call 1000placestosee_info.1000placestosee.bat
 call 1000placestovisit_org.1000places.bat
-call 20241131.kreatewebsites.com.fll.bat
 call kreatewebsites_com_business_legacy.2102999.bat
-call noeln_business_kreatewebsites_com.3102999.bat
-call 700152.kreatewebsites.com.700152.bat
-call 800152.azurewebsites.net.800152.bat
-call 800153.800153.kreatewebsites.com.bat
-call 800153.kreatewebsites.com.800153.bat
-call 900152.900152.azurewebsites.net.bat
-call 900153.900153.azurewebsites.net.bat
-call 90103.kreatewebsites.com90103.bat
-call 990152.990152.azurewebsites.net.bat
-call 990153.990153.azurewebsites.net.bat
 call abexp.kreatewebsites.com.BCCCvZ8Bu5AqH6SZw1UQ.bat
 REM acespire.bat
 REM acespireconsulting_com.acespire.bat
@@ -53,10 +42,6 @@ call indiafort_org.4RRTUL0nyXtlT6Dtu1yj.bat
 call kreate.bat
 call kreate.cloud.02101.bat
 call kreatebots.com.5110.bat
-kreatewebsite1124.kreatewebsite11246.azurewebsites.net.bat
-kreatewebsite1126.kreatewebsite1126.azurewebsites.net - Copy (2).bat
-kreatewebsite1126.kreatewebsite1126.azurewebsites.net.bat
-kreatewebsite1127.kreatewebsite1127.azurewebsites.net.bat
 call kreatewebsites.com.5107.bat
 call kreatewebsites.com.designs.13KTdq6Rg75tb5MZ8Qly.bat
 call llm_abexperiment_com.OAllEXGOHonxTEUdr0Tr.bat
@@ -76,8 +61,8 @@ call site2.kreatewebsites.com.5102.bat
 call site3.kreatewebsites.com.5103.bat
 call site4.kreatewebsites.com.5104.bat
 call slides.kreatewebsites.com.5108..bat
-slides_dataproduct_net.ZUVS6n73iQEbUXZ6Hiyu.bat
-srisaibaba_org.zMIUhoe8qA9bCZqdNzdQ.bat
+call slides_dataproduct_net.ZUVS6n73iQEbUXZ6Hiyu.bat
+call srisaibaba_org.zMIUhoe8qA9bCZqdNzdQ.bat
 call tamilmovies_us.tamilmovies.bat
 call tax-income.08zUGOVnCAOaIJlVcCX7.bat
 REM taxs_info.OaVw2atU60N6NQUSMRfX - Copy (4).bat
